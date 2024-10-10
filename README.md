@@ -4,7 +4,8 @@ This is a simple web-based number guessing game built with Flask. In this game, 
 
 ## Demo
 Visit the home page to start playing:  
-- [Home Page](images/homepage.png) - Displays the prompt for guessing a number.
+- Homepage - Displays the prompt for guessing a number.
+ ![Homepage](images/homepage.png)
   
 ## How It Works
 - The server generates a random number between 0 and 9 at the start.
@@ -56,7 +57,13 @@ higher-lower-game/
 - **HTML**: Used for the structure and content of the web pages.
 - **GIFs**: For providing visual feedback for each type of guess.
 
+## Results
 
+  ![Low](images/low.png)
+
+  ![Found](images/found.png)
+
+  ![High](images/high.png)
 
 ## Acknowledgements
 - Thanks to [Giphy](https://giphy.com/) for the GIFs used in this project.
